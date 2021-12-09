@@ -61,6 +61,7 @@ body{
 }
 #Footer h1{
     font-family: "Open Sans";
+    font-weight: 300;
 }
 #Footer a{
     color: white;

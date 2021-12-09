@@ -1,0 +1,68 @@
+/*SE DESACTIVA EL SMOOTHSCROLL POR DEFECTO*/
+html{
+    scroll-behavior: auto !important;
+}
+body{
+    font-family: "Open Sans";
+    background-color: black;
+}
+
+/*NAVBAR*/
+.navbar{
+    background-color: #2e9ca7;
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+}
+.navbar-brand{
+    font-family: "Open Sans";
+    font-size: 30px;
+    font-weight: 300;
+}
+.img-navbar{
+    width: 2rem;
+}
+
+.fondo-section-icono{
+    background-color: #4fc3ce;
+
+}
+/*QUIENES SOMOS*/
+#Quienes-Somos{
+    font-family: "Open Sans";
+    font-weight: 300;
+    padding-bottom: 7%;
+}
+
+/*Destacados*/
+#Destacados{
+    font-family: "Open Sans";
+    font-weight: 300;
+}
+#Destacados h1{
+    font-size: 25px;
+}
+
+/*CONTACTO*/
+#Contacto h1{
+    font-family: "Open Sans";
+    font-size: 30px;
+}
+
+.fondo-section-contacto{
+    margin: 3%;
+    padding: 15%;
+    background-color: #ffffff;
+}
+
+/*FOOTER*/
+#Footer{
+    background-color: #2e9ca7;
+}
+#Footer h1{
+    font-family: "Oswald";
+}
+#Footer a{
+    color: white;
+    text-decoration: none;
+}

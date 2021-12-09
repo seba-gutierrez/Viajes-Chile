@@ -24,7 +24,7 @@ body{
 }
 
 .fondo-section-icono{
-    background-color: #4fc3ce;
+    background-color: #2e9ca7;
 
 }
 /*QUIENES SOMOS*/
@@ -41,6 +41,10 @@ body{
 }
 #Destacados h1{
     font-size: 25px;
+}
+
+.fondo-card{
+    background-color: #2e9ca7;
 }
 
 /*CONTACTO*/
